@@ -1,0 +1,9 @@
+Building Asapcoin
+
+See doc/readme-qt.rst for instructions on building Asapcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Asapcoin.
+
+See doc/build-*.txt for instructions on building asapcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Asapcoin.
